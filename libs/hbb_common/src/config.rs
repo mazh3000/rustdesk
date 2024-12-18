@@ -100,6 +100,7 @@ const CHARS: &[char] = &[
     'm', 'n', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z',
 ];
 
+// address 
 pub const RENDEZVOUS_SERVERS: &[&str] = &["g.mazh.xyz"];
 pub const PUBLIC_RS_PUB_KEY: &str = "skVl6dYzbjNrIDvvdN+j3OOspAQWgg3Ti6io17Sv9Sc=";
 
